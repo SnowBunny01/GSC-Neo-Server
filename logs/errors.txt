@@ -1,0 +1,27 @@
+
+Error [ERR_IPC_DISCONNECTED]: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (internal/child_process.js:832:26)
+    at StreamProcessWrapper.destroy (C:\Users\Swanton\Downloads\GSC-Neo-Server\.lib-dist\process-manager.js:214:16)
+    at ChildProcess.<anonymous> (C:\Users\Swanton\Downloads\GSC-Neo-Server\.lib-dist\process-manager.js:175:9)
+    at ChildProcess.emit (events.js:203:13)
+    at ChildProcess.EventEmitter.emit (domain.js:471:20)
+    at finish (internal/child_process.js:861:14)
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+
+Error [ERR_IPC_DISCONNECTED]: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (internal/child_process.js:832:26)
+    at QueryProcessWrapper.destroy (C:\Users\Swanton\Downloads\GSC-Neo-Server\.lib-dist\process-manager.js:111:16)
+    at ChildProcess.<anonymous> (C:\Users\Swanton\Downloads\GSC-Neo-Server\.lib-dist\process-manager.js:77:9)
+    at ChildProcess.emit (events.js:203:13)
+    at ChildProcess.EventEmitter.emit (domain.js:471:20)
+    at finish (internal/child_process.js:861:14)
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+
+Error [ERR_IPC_DISCONNECTED]: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (internal/child_process.js:832:26)
+    at QueryProcessWrapper.destroy (C:\Users\Swanton\Downloads\GSC-Neo-Server\.lib-dist\process-manager.js:111:16)
+    at ChildProcess.<anonymous> (C:\Users\Swanton\Downloads\GSC-Neo-Server\.lib-dist\process-manager.js:77:9)
+    at ChildProcess.emit (events.js:203:13)
+    at ChildProcess.EventEmitter.emit (domain.js:471:20)
+    at finish (internal/child_process.js:861:14)
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
